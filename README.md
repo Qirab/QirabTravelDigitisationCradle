@@ -6,7 +6,7 @@ The Qirab Travel Digitisation Cradle is an open source design for a travel imagi
 QTC50 v2.0 CAD Drawing
 
 ![QTC50v1.0 Prototype testing at the Academy of Arabic Languagein Cairo, Egypt](https://github.com/Qirab/QirabTravelDigitisationCradle/blob/main/QTC50v1.0_AcademyofARabicLAngCairo_IMG_0207.JPG)
-QTC50v1.0 Prototype testing at the Academy of Arabic Languagein Cairo, Egypt
+QTC50v1.0 Prototype testing at the Academy of Arabic Language in Cairo, Egypt.
 
 Requires Qirab Tools submodule.
 
