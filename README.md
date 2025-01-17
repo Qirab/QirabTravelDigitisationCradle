@@ -2,7 +2,12 @@
 
 THE QTC50 IS UNDER PRE-ALPHA ACTIVE DEVELOPMENT.
 
+![QTC50v2.0_CAD](https://github.com/Qirab/QirabTravelDigitisationCradle/blob/main/QTC50_A4_v2.0.png)
+
 The Qirab Travel Digitisation Cradle is an open source design for a travel imagining system which allows for the standards based digitisation of A4 and smaller manuscripts and fragile books.
+
+![QTC50v1.0 Prototype testing at the Academy of Arabic Languagein Cairo, Egypt](https://github.com/Qirab/QirabTravelDigitisationCradle/blob/main/QTC50v1.0_AcademyofARabicLAngCairo_IMG_0207.JPG)
+QTC50v1.0 Prototype testing at the Academy of Arabic Languagein Cairo, Egypt
 
 Requires Qirab Tools submodule.
 
