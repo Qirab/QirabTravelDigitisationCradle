@@ -1,6 +1,6 @@
 # Qirab Travel Digitisation Cradle - QTC50
 
-The Qirab Travel Digitisation Cradle is an open source design for a travel imagining system which allows for the standards based digitisation of A4 and smaller manuscripts and fragile books.
+The Qirab™ Travel Digitsation Cradle QTC50 is an open-source manuscript digitisation design intended to safely hold an A4 sized book, camera, and lights during travel imaging.
 
 ![QTC50v2.0_CAD](https://github.com/Qirab/QirabTravelDigitisationCradle/blob/main/QTC50_A4_v2.0.png)
 QTC50 v2.0 CAD Drawing
