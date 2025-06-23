@@ -1,4 +1,8 @@
+#حامل «قِراب» المتنقل للرقمنة - QTC50
 # Qirab Travel Digitisation Cradle - QTC50
+
+يعد حامل «قِراب» المتنقل للرقمنة تصميمًا مفتوح المصدر لرقمنة المخطوطات قادر على حمل كتاب بحجم A4 بالإضافة إلى كاميرا ووحدات الإضاءة بأمان أثناء التصوير المتنقل.
+
 
 The Qirab™ Travel Digitsation Cradle QTC50 is an open-source manuscript digitisation design intended to safely hold an A4 sized book, camera, and lights during travel imaging.
 
