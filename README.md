@@ -6,8 +6,8 @@
 
 The Qirab™ Travel Digitsation Cradle QTC50 is an open-source manuscript digitisation design intended to safely hold an A4 sized book, camera, and lights during travel imaging.
 
-![QTC50v2.0_CAD](https://github.com/Qirab/QirabTravelDigitisationCradle/blob/main/QTC50_A4_v2.0.png)
-QTC50 v2.0 CAD Drawing
+![QTC50v2.1_CAD](https://github.com/Qirab/QirabTravelDigitisationCradle/blob/main/QTC50v2.1.png)
+QTC50 v2.1 CAD Drawing
 
 ![QTC50v1.0 Prototype testing at the Academy of Arabic Languagein Cairo, Egypt](https://github.com/Qirab/QirabTravelDigitisationCradle/blob/main/QTC50v1.0_AcademyofARabicLAngCairo_IMG_0207.JPG)
 QTC50v1.0 Prototype testing at the Academy of Arabic Language in Cairo, Egypt.
