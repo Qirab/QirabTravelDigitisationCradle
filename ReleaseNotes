@@ -2,12 +2,12 @@ Release Notes for Qirab Tavel Cradle
 
 v2.1
 Fixes following v2.0 build tests: 
-- base aluminum strengthened against rotation 
+- base aluminum strengthened against rotation iwith 20x40 piece
 - light arms adjusted
 - camera arms shifted 5mm up
 - camera block changed 
 - removed 2 end caps for integration into lock block
-- boards made 0.5mm thicker with larger wholes for tolerance
+- boards made 0.5mm thicker with larger holes for tolerance
 - most holes 5mm unless for tapping or more tolerance needed 
 - corner block tolerances widened
 - curved handle plates added 
