@@ -1,5 +1,10 @@
 Release Notes for Qirab Tavel Cradle
 
+v2.1.1
+- Widened board holes to 7.5 and rounded corneres fro faster printing
+- Added hole and 15mm screw to corner blocks
+- Updated BOM XLS File
+
 v2.1
 Fixes following v2.0 build tests: 
 - base aluminum strengthened against rotation iwith 20x40 piece
