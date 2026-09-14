@@ -12,9 +12,9 @@ QTC50v2.2.1_with QMS Macro Slider CAD Drawing
 ![QTC50v1.0 Prototype testing at the Academy of Arabic Languagein Cairo, Egypt](https://github.com/Qirab/QirabTravelDigitisationCradle/blob/main/QTC50v1.0_AcademyofARabicLAngCairo_IMG_0207.JPG)
 QTC50v1.0 Prototype testing at the Academy of Arabic Language in Cairo, Egypt.
 
-Requires Qirab Tools submodule.
+Requires <a href="https://github.com/Qirab/QirabTools">Qirab Tools</a> submodule.
 
-Qirab Macro Sliser (QMS) is optional.
+<a href="https://github.com/Qirab/QirabMacroSlider">Qirab™ Macro Slider (QMS)</a> is optional.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
 
