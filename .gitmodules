@@ -1,3 +1,6 @@
 [submodule "QirabTools"]
 	path = QirabTools
 	url = https://github.com/Qirab/QirabTools
+[submodule "QirabMacroSlider"]
+	path = QirabMacroSlider
+	url = https://github.com/Qirab/QirabMacroSlider.git
