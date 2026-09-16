@@ -10,9 +10,12 @@ The Qirab™ Travel Digitsation Cradle QTC50 is an open-source manuscript digiti
 QTC50v2.2.1_with QMS Macro Slider CAD Drawing
 
 ![QTC50v1.0 Prototype testing at the Academy of Arabic Languagein Cairo, Egypt](https://github.com/Qirab/QirabTravelDigitisationCradle/blob/main/QTC50v1.0_AcademyofARabicLAngCairo_IMG_0207.JPG)
-QTC50v1.0 Prototype testing at the Academy of Arabic Language in Cairo, Egypt.
+QTC50v1.0 Prototype testing at the <a href="https://qirab.org/en/blog/2023/12/01/the-academys-manuscripts-preservation-and-digitisation/">Academy of Arabic Language in Cairo, Egypt</a>.
 
 Requires <a href="https://github.com/Qirab/QirabTools">Qirab Tools</a> submodule.
+
+![QTC50v2.2.1_with QMS Macro Slider and Qirab Tools CAD](https://github.com/Qirab/QirabTravelDigitisationCradle/blob/b704ba33f6d906aab93428de28589e12ee78697d/QTC50v2.2.1_withQMSandTools.png)
+QTC50v2.2.1_with QMS Macro Slider and Qirab Tools
 
 <a href="https://github.com/Qirab/QirabMacroSlider">Qirab™ Macro Slider (QMS)</a> is optional.
 
