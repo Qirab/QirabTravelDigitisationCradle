@@ -14,6 +14,9 @@ QTC50v1.0 Prototype testing at the Academy of Arabic Language in Cairo, Egypt.
 
 Requires <a href="https://github.com/Qirab/QirabTools">Qirab Tools</a> submodule.
 
+![QTC50v2.2.1_with QMS Macro Slider and Qirab Tools CAD](https://github.com/Qirab/QirabTravelDigitisationCradle/blob/b704ba33f6d906aab93428de28589e12ee78697d/QTC50v2.2.1_withQMSandTools.png)
+QTC50v2.2.1_with QMS Macro Slider and Qirab Tools
+
 <a href="https://github.com/Qirab/QirabMacroSlider">Qirab™ Macro Slider (QMS)</a> is optional.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
